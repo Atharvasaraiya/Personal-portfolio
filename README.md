@@ -1,6 +1,6 @@
 # Portfolio Template
 
-"Welcome to my personal portfolio. I am Atharva, a dedicated graphic designer and full-stack developer. My portfolio highlights projects and designs that demonstrate my proficiency in React.js, Next.js, Supabase, and the latest web technologies. I invite you to explore my work and connect with me to collaborate on innovative projects."
+"Welcome to my personal portfolio. I am Atharva Saraiya, a dedicated graphic designer and full-stack developer. My portfolio highlights projects and designs that demonstrate my proficiency in React.js, Next.js, Supabase, and the latest web technologies. I invite you to explore my work and connect with me to collaborate on innovative projects."
 
 ## Built With
 

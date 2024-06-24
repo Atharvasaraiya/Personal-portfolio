@@ -156,6 +156,32 @@ const experiences = [
 
 const projects = [
   {
+    id: 'project-5',
+    name: 'Trail Tracer',
+    description:
+      'The Pathfinding project is a web app that visualizes pathfinding algorithms on interactive maps using React, Material-UI and deck.gl for a high-performance, user-friendly experience.',
+    tags: [
+      {
+        name: 'React',
+        color: 'blue-text-gradient',
+      },
+      {
+        name: 'deck.gl',
+        color: 'green-text-gradient',
+      },
+      {
+        name: 'Sass',
+        color: 'pink-text-gradient',
+      },
+    ],
+    image: nyeusi,
+    repo: 'https://github.com/Atharvasaraiya/TrailTracer',
+    demo: 'https://trail-tracer.vercel.app/',
+  },
+
+
+  {
+    
     id: 'project-1',
     name: 'Vision',
     description: 'Creating user-friendly interfaces and captivating designs to showcase an innovative product on a modern website.',
@@ -177,29 +203,29 @@ const projects = [
     repo: 'https://atharvasaraiya.github.io/vision-agency/',
     demo: 'https://atharvasaraiya.github.io/vision-agency/',
   },
-  {
-    id: 'project-2',
-    name: 'Leaderboard',
-    description:
-      'A leaderboard list app that displays scores submitted by different players.',
-    tags: [
-      {
-        name: 'react',
-        color: 'blue-text-gradient',
-      },
-      {
-        name: 'restapi',
-        color: 'green-text-gradient',
-      },
-      {
-        name: 'scss',
-        color: 'pink-text-gradient',
-      },
-    ],
-    image: leaderboard,
-    // repo: 'https://github.com/shaqdeff/Leaderboard',
-    // demo: 'https://shaqdeff.github.io/Leaderboard/',
-  },
+  // {
+  //   id: 'project-2',
+  //   name: 'Leaderboard',
+  //   description:
+  //     'A leaderboard list app that displays scores submitted by different players.',
+  //   tags: [
+  //     {
+  //       name: 'react',
+  //       color: 'blue-text-gradient',
+  //     },
+  //     {
+  //       name: 'restapi',
+  //       color: 'green-text-gradient',
+  //     },
+  //     {
+  //       name: 'scss',
+  //       color: 'pink-text-gradient',
+  //     },
+  //   ],
+  //   image: leaderboard,
+  //   // repo: 'https://github.com/shaqdeff/Leaderboard',
+  //   // demo: 'https://shaqdeff.github.io/Leaderboard/',
+  // },
   {
     id: 'project-3',
     name: 'Text 2 Speech',
@@ -244,29 +270,7 @@ const projects = [
     repo: 'https://github.com/Atharvasaraiya/cinematech.git',
     demo: 'https://cinematech-seven.vercel.app/',
   },
-  // {
-  //   id: 'project-5',
-  //   name: 'Nyeusi Fest Site',
-  //   description:
-  //     'This is a demo concert website for a music festival called Nyeusi.',
-  //   tags: [
-  //     {
-  //       name: 'nextjs',
-  //       color: 'blue-text-gradient',
-  //     },
-  //     {
-  //       name: 'supabase',
-  //       color: 'green-text-gradient',
-  //     },
-  //     {
-  //       name: 'css',
-  //       color: 'pink-text-gradient',
-  //     },
-  //   ],
-  //   image: nyeusi,
-  //   repo: 'https://github.com/shaqdeff/Nyeusi-Fest-Site',
-  //   demo: 'https://shaqdeff.github.io/Nyeusi-Fest-Site/',
-  // },
+  
 ];
 
 export { services, technologies, experiences, projects };

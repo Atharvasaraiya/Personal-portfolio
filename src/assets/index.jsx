@@ -118,6 +118,8 @@ import logotext from './logo/logo-text-black.png';
 // import { ReactComponent as PinterestImg } from './footer/pinterest.svg';
 // import { ReactComponent as HubImg } from './footer/hubclone.svg';
 
+
+
 import shaq from './personal/facepic.png';
 import handBackground from './personal/hand.png';
 
@@ -160,7 +162,7 @@ import komikult from './projects/vision.jpg';
 import leaderboard from './projects/leaderboard.png';
 import math from './projects/textspeech.jpg';
 import movie from './projects/movie-metro.png';
-import nyeusi from './projects/nyeusi.png';
+import nyeusi from './projects/tracermap.jpg';
 import space from './projects/space-hub.png';
 
 export {

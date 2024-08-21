@@ -94,13 +94,17 @@ const App = () => {
             bg-no-repeat rounded-tl-[150px] rounded-br-[130px]">
             <Experience />
           </div>
+
         </div>
         <div className="relative z-0">
           <Contact />
         </div>
-      
-        <Footer /> {/* Footer component inside the BrowserRouter */}
+
+       <Footer /> {/* Footer component inside the BrowserRouter */}
+
       </div>
+      
+
     </BrowserRouter>
   );
 };

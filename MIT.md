@@ -1,3 +1,3 @@
-## Copyright 2023, Shaquille Ndunda
+## Copyright 2024, Atharva Saraiya
 
 Permission is hereby granted, 
